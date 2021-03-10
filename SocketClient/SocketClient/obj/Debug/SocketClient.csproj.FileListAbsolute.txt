@@ -1,0 +1,13 @@
+c:\users\dora\documents\visual studio 2013\Projects\SocketClient\SocketClient\bin\Debug\SocketClient.exe.config
+c:\users\dora\documents\visual studio 2013\Projects\SocketClient\SocketClient\bin\Debug\SocketClient.exe
+c:\users\dora\documents\visual studio 2013\Projects\SocketClient\SocketClient\bin\Debug\SocketClient.pdb
+c:\users\dora\documents\visual studio 2013\Projects\SocketClient\SocketClient\obj\Debug\SocketClient.Form1.resources
+c:\users\dora\documents\visual studio 2013\Projects\SocketClient\SocketClient\obj\Debug\SocketClient.Properties.Resources.resources
+c:\users\dora\documents\visual studio 2013\Projects\SocketClient\SocketClient\obj\Debug\SocketClient.csproj.GenerateResource.Cache
+c:\users\dora\documents\visual studio 2013\Projects\SocketClient\SocketClient\obj\Debug\SocketClient.exe
+c:\users\dora\documents\visual studio 2013\Projects\SocketClient\SocketClient\obj\Debug\SocketClient.pdb
+C:\Users\Dora\Documents\Visual Studio 2013\Projects\SocketClient\SocketClient\bin\Debug\Newtonsoft.Json.dll
+C:\Users\Dora\Documents\Visual Studio 2013\Projects\SocketClient\SocketClient\bin\Debug\Newtonsoft.Json.xml
+C:\Users\Dora\Documents\Visual Studio 2013\Projects\SocketClient\SocketClient\obj\Debug\SocketClient.csprojAssemblyReference.cache
+C:\Users\Dora\Documents\Visual Studio 2013\Projects\SocketClient\SocketClient\obj\Debug\SocketClient.csproj.CoreCompileInputs.cache
+C:\Users\Dora\Documents\Visual Studio 2013\Projects\SocketClient\SocketClient\obj\Debug\SocketClient.csproj.CopyComplete
