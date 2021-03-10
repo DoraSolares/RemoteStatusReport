@@ -1,0 +1,17 @@
+{
+  "version": 2,
+  "dgSpecHash": "keCKiARqFbiS82KQzn036GhN3WNIbmU61ALbfSC84W/d5CmqV0RwHHDDaNJtC/H4X2ZpQ5D4g+BdsCLbySmAUg==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\doras\\Documents\\Visual Studio 2019\\Projects\\RemoteStatusReport\\SocketServer\\SocketServer.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\doras\\.nuget\\packages\\json.net\\1.0.25\\json.net.1.0.25.nupkg.sha512",
+    "C:\\Users\\doras\\.nuget\\packages\\microsoft.netcore.platforms\\6.0.0-preview.1.21102.12\\microsoft.netcore.platforms.6.0.0-preview.1.21102.12.nupkg.sha512",
+    "C:\\Users\\doras\\.nuget\\packages\\microsoft.win32.registry\\6.0.0-preview.1.21102.12\\microsoft.win32.registry.6.0.0-preview.1.21102.12.nupkg.sha512",
+    "C:\\Users\\doras\\.nuget\\packages\\newtonsoft.json\\12.0.3\\newtonsoft.json.12.0.3.nupkg.sha512",
+    "C:\\Users\\doras\\.nuget\\packages\\system.codedom\\6.0.0-preview.1.21102.12\\system.codedom.6.0.0-preview.1.21102.12.nupkg.sha512",
+    "C:\\Users\\doras\\.nuget\\packages\\system.management\\6.0.0-preview.1.21102.12\\system.management.6.0.0-preview.1.21102.12.nupkg.sha512",
+    "C:\\Users\\doras\\.nuget\\packages\\system.security.accesscontrol\\6.0.0-preview.1.21102.12\\system.security.accesscontrol.6.0.0-preview.1.21102.12.nupkg.sha512",
+    "C:\\Users\\doras\\.nuget\\packages\\system.security.principal.windows\\6.0.0-preview.1.21102.12\\system.security.principal.windows.6.0.0-preview.1.21102.12.nupkg.sha512"
+  ],
+  "logs": []
+}
